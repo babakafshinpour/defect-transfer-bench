@@ -1,6 +1,6 @@
 backbone,category,image_auroc
 resnet50,bottle,1.0000
-resnet50,screw,0.8262
 resnet50,capsule,0.9071
 resnet50,hazelnut,1.0000
+resnet50,screw,0.8262
 resnet50,zipper,0.9569
